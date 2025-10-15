@@ -1,0 +1,2 @@
+# LazyCoder
+hosptial management 
